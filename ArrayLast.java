@@ -1,4 +1,4 @@
-public class Main {
+public class ArrayLast {
     public static void main(String[] args) {
         int[] arr = {555,5,5,5,7};
         System.out.println(returnLast(arr));
