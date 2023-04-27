@@ -1,2 +1,2 @@
 # RomanToInt
-A sample code from leetcode (java)
+Sample codes from leetcode for practicing problem solving skill.
